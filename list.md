@@ -6,6 +6,4 @@ Here are some of the applications that we have built and already support payment
 
 | **Title**     | **Description**                                            | **Link to Pi Brainstorm** | **Link to Testnet App** | **Link to Mainnet App** |
 |---------------|------------------------------------------------------------|---------------------------|-------------------------|-------------------------|
-| Global-System for Pi | Example Develop Apps for Payment Pi Network | pi://brainstorm.pi/project/649246a072b8d51a2e9d1409 |  [Global System Testnet](https://testnet.gproid.com/) | (When available) |
-| Global YouLikePi | Global-Token for pay view Youtube Video with Pi Network | pi://brainstorm.pi/project/64a669c8a3fb4d0637e56543 |  [Global YouLikePi Testnet](https://youlikepi.gproid.com/) | |
 | Toko Emas Berlian Harisa | Toko Emas Berlian Harisa, aims to make it easier for pioneers in the world, especially Indonesia, in buying and selling gold and diamonds. |  pi://brainstorm.pi/project/6475b0b22c0abb630dcce93d |  [Toko Emas Berlian Harisa Testnet](https://testnet.harisajewellery.com/) | https://harisajewellery.com/ |
